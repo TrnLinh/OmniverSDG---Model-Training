@@ -1,0 +1,7 @@
+data/
+model/
+*.pth
+*.pt
+*.png
+*.jpg
+*.jpeg
