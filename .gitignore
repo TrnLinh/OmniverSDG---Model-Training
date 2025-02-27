@@ -1,7 +1,4 @@
-data/
+car_trees/
+just_car/
+result4/
 model/
-*.pth
-*.pt
-*.png
-*.jpg
-*.jpeg
